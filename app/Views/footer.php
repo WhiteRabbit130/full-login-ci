@@ -40,6 +40,7 @@
     <script src="<?php echo base_url('assets/plugins/datatables/dataTables.bootstrap.js');?>" type="text/javascript"></script>
     <script src="<?php echo base_url('assets/plugins/ckeditor/ckeditor.js');?>"></script>
   
+
     <script type="text/javascript">
       $(function () {
         $('#SearchTable').dataTable({
