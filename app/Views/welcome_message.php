@@ -247,7 +247,6 @@
 </section>
 
 <div class="further">
-
     <section>
 
         <h1>Go further</h1>
